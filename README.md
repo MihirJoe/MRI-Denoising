@@ -12,6 +12,7 @@ https://openaccess.thecvf.com/content/ACCV2020/papers/Tran_GAN-based_Noise_Model
 
 Denoising architecture:
 https://arxiv.org/pdf/2208.14337.pdf
+https://stanford.edu/class/ee367/Winter2016/Chaudhari_Report.pdf
 
 
 https://optuna.org
