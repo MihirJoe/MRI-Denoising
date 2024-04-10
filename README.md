@@ -14,12 +14,15 @@ Denoising architecture:
 https://arxiv.org/pdf/2208.14337.pdf
 https://stanford.edu/class/ee367/Winter2016/Chaudhari_Report.pdf
 
+Paper on different denoising architecture used for MRI images:
+https://www.sciencedirect.com/science/article/pii/S0730725X19304643
 
+
+How to use Optuna (example):
 https://optuna.org
 
 Pytorch:
-
-- For training set you should shuffle, not for validation set
+- For training set you should shuffle, not for the validation set
 - One loader for each dataset
 - Does the backpropogation internally 
 - self.conv2D = nn.Conv2D() # double check syntax
