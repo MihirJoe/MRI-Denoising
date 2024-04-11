@@ -70,3 +70,6 @@ Thumbs.db
 *.blg
 *.nav
 *.snm
+
+# PyTorch Models #
+.pt
