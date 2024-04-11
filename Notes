@@ -1,0 +1,6 @@
+Notes
+
+Discussion on Pytorch error: torch.Size([3, 3, 256, 256]) and not torch.Size([3, 256, 256])
+https://discuss.pytorch.org/t/target-size-torch-size-3-3-256-256-must-be-the-same-as-input-size-torch-size-3-65536/149359
+
+https://discuss.pytorch.org/t/user-warning-incorrect-target-size-sizes-appear-to-be-correct/120487
