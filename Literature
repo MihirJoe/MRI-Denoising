@@ -1,0 +1,1 @@
+https://ieeexplore.ieee.org/abstract/document/7839189  Architecture: start with Conv + RELU, then even layers of Conv, BN, RELU, then end with just conv. Also has a unique activation funct related to the noise
