@@ -4,7 +4,7 @@
 
 def font_cmu(plt):
     import os
-    os.environ["PATH"] += os.pathsep + "/usr/local/texlive/2022/bin/universal-darwin"  # This line is needed for macOS; update path on the location f TexLive on your system
+    os.environ["PATH"] += os.pathsep + "/usr/local/texlive/2023/bin/universal-darwin"  # This line is needed for macOS; update path on the location f TexLive on your system
     plt.rcParams["text.latex.preamble"] = r"\usepackage{bm} \usepackage{amsmath}"
 
     params = {"text.usetex": True,

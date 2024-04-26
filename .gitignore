@@ -1,5 +1,9 @@
 # FOR MORE HINTS SEE THE TEMPLATES AT https://github.com/github/gitignore #
 
+# Images #
+##########
+*.tif
+
 # Compiled source #
 ###################
 *.com
@@ -70,3 +74,6 @@ Thumbs.db
 *.blg
 *.nav
 *.snm
+
+# PyTorch Models #
+.pt
